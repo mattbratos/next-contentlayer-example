@@ -1,23 +1,4 @@
-# Next.js Contentlayer Example
+### Example of how contentlayer can be user with remote content
 
-## Demo
-
-View the deployed project: [Demo](https://next-contentlayer-example.vercel.app/)
-
-## Try it Now
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](http://gitpod.io/#https://github.com/contentlayerdev/next-contentlayer-example)
-
-## Local Installation
-
-Clone the project:
-
-    git clone git@github.com:contentlayerdev/next-contentlayer-example.git
-
-Install dependencies:
-
-    yarn
-
-Run dev server:
-
-    yarn dev
+1. Looka at the `contentlayer.config.ts` file to see how the remote content is fetched
+2. Look at the '.contentlayer/generated'
